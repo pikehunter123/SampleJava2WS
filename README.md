@@ -1,1 +1,0 @@
-# SampleJava2WS

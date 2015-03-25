@@ -1,0 +1,1 @@
+java2ws -server -cp ./build/classes demo.hw.server.HelloWorldImpl
